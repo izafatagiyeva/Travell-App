@@ -9,5 +9,5 @@
 
 
 <h2>Screen Record</h2>
-![This is preview](https://github.com/izafatagiyeva/Travell-App/blob/af623f0698969f7e48eab5f106b26831b632b82c/travel-app-gif.gif)
+![This is preview](https://github.com/izafatagiyeva/Travell-App/blob/01347222f457c38e7667aa25b4d490958835934d/travel-app-gif.gif)
 
